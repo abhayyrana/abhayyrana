@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi there 👋
 <h1 align="center">I'm Abhay Singh Rana</h1>
 <h3 align="center">A B.Tech student at K.J.Somaiya College of Engineering, Mumbai, pursuing my degree in "Robotics and Artificial Intelligence."</h3>
 
