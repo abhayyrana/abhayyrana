@@ -91,10 +91,10 @@ class AbhaySinghRana:
 <a href="https://twitter.com/yourhandle" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="55" width="55" />
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:abhayymayy@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="55" width="55" />
 </a>
-<a href="https://instagram.com/yourhandle" target="_blank">
+<a href="https://instagram.com/abhayy.rana" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="55" width="55" />
 </a>
 
