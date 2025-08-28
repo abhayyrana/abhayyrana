@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhayyrana&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=EB670C&fire=EB670C&currStreakLabel=00D4AA"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayyrana&theme=tokyonight&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA"/>
 </div>
 
 ---
