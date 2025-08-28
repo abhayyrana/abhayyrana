@@ -45,12 +45,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhayyrana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayyrana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=abhayyrana&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayyrana&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhayyrana&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA"/>
+  <img src="https://streak-stats.demolab.com/?user=abhayyrana&theme=tokyonight&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA"/>
 </div>
 
 ---
