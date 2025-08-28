@@ -85,20 +85,32 @@ class AbhaySinghRana:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abhayrana21" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="55" width="55" />
-</a>
-<a href="https://twitter.com/yourhandle" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="55" width="55" />
-</a>
-<a href="mailto:abhayymayy@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="55" width="55" />
-</a>
-<a href="https://instagram.com/abhayy.rana" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="55" width="55" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/abhayyrana" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="linkedin" height="55" width="55" style="margin: 0 90px;" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+         alt="twitter" height="55" width="55" style="margin: 0 90px;" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:abhayymayy@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="gmail" height="55" width="55" style="margin: 0 90px;" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/abhayy.rana" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+         alt="instagram" height="55" width="55" style="margin: 0 90px;" />
+  </a>
 
 </div>
+
 
 ---
 
