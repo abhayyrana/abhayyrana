@@ -72,7 +72,7 @@ class AbhaySinghRana:
 
 ---
 
-## 🚀 2024 Goals
+## 🚀 2025 Goals
 
 - [x] Started learning OpenCV
 - [ ] Complete first computer vision project
