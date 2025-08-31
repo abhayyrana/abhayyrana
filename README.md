@@ -34,11 +34,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="65" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="65" height="65"/>
+  <br><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="autocad" width="65" height="65"/>
+  <!-- If SolidWorks isn't in Devicon, use a reliable icon source -->
+  <img src="https://icons8.com/icon/solidworks" alt="solidworks" width="65" height="65"/>
+  <!-- SageMath logo—SVG source from SageMath’s identity assets -->
+  <img src="https://wiki.sagemath.org/attachment/download/logos/icon_sagemath_round.svg" alt="sagemath" width="65" height="65"/>
+  <!-- Code::Blocks logo—assuming Devicon or a trusted host -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeblocks/codeblocks-original.svg" alt="codeblocks" width="65" height="65"/>
+  <!-- LTspice logo—from Analog Devices or a reliable media asset -->
+  <img src="https://www.analog.com/content/dam/analog/en/design-center/design-tools-and-calculators/ltspice/LTspice.svg" alt="LTspice" width="65" height="65"/>
 </p>
 
 </div>
+
 
 
 ---
