@@ -38,9 +38,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="65" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="65" height="65"/>
   <br><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/autocad/autocad-original.svg" alt="autocad" width="65" height="65"/>
+
+</svg>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="autocad" width="65" height="65"/>
   <!-- If SolidWorks isn't in Devicon, use a reliable icon source -->
-  <img src="https://icons8.com/icon/solidworks" alt="solidworks" width="65" height="65"/>
+  <img src="" alt="solidworks" width="65" height="65"/>
   <!-- SageMath logo—SVG source from SageMath’s identity assets -->
   <img src="https://wiki.sagemath.org/attachment/download/logos/icon_sagemath_round.svg" alt="sagemath" width="65" height="65"/>
   <!-- Code::Blocks logo—assuming Devicon or a trusted host -->
